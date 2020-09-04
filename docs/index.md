@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BowfolioApp
 
 You can use the [editor on GitHub](https://github.com/trigeeks/bowfoliosApp.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
