@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+title: BowfoliosApp
 description: Profiles, Projects, and Interests for the UH Community
 show_downloads: true
 github:
@@ -8,3 +8,5 @@ social:
   type: Organization
 gems:
   - jekyll-mentions
+  
+  theme: jekyll-theme-cayman
