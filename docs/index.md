@@ -1,37 +1,32 @@
 ## Welcome to BowfolioApp
 
-You can use the [editor on GitHub](https://github.com/trigeeks/bowfoliosApp.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# TABLE OF CONTENTS
+***
+* [OVERVIEW](#overview)
+* [PROGRESS + DEVELOPMENT](#progress--development)
+* [USER GUIDE](#user-guide)
+* [DEVELOPER GUIDE](#developer-guide)
+* [COMMUNITY FEEDBACK](#community-feedback)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br/>
 
-### Markdown
+# OVERVIEW
+***
+The native mobile app that reimplements the functionality of the BowFolios (https://bowfolios.github.io/) application. Users can modify profiles, projects, and interests and they can also browse other's profile and project to see if they have the same interests with users. This App is build with Swift and firebase. It is for IOS platform only.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# PROGRESS + DEVELOPMENT
+***
 
-```markdown
-Syntax highlighted code block
+Track the team's progress via Milestones:
+* <a href="https://github.com/trigeeks/bowfoliosApp/projects/1">M1</a>
 
-# Header 1
-## Header 2
-### Header 3
+<br/>
 
-- Bulleted
-- List
+# USER GUIDE
+***
+This section provides a brief walkthrough of the Bowfilios App user interface and its functionality.
 
-1. Numbered
-2. List
+### Sign In View
+sign in with your email, if you do not have an account, you can press Create an account down below.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trigeeks/bowfoliosApp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<img src="doc/signInView.png" width="90%" alt="Sign In View">
