@@ -6,7 +6,6 @@
 * [PROGRESS + DEVELOPMENT](#progress--development)
 * [USER GUIDE](#user-guide)
 * [DEVELOPER GUIDE](#developer-guide)
-* [COMMUNITY FEEDBACK](#community-feedback)
 
 <br/>
 
