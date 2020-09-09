@@ -29,4 +29,4 @@ This section provides a brief walkthrough of the Bowfilios App user interface an
 ### Sign In View
 sign in with your email, if you do not have an account, you can press Create an account down below.
 
-<img src="doc/signInView.png" width="90%" alt="Sign In View">
+<img src="../doc/signInView.png" width="90%" alt="Sign In View">
