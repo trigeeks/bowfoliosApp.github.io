@@ -28,7 +28,7 @@ This section provides a brief walkthrough of the Bowfilios App user interface an
 ## Sign In View
 sign in with your email, if you do not have an account, you can press Create an account down below.
 
-<img src="doc/signInView.png" width="200" alt="Sign In View">
+<img src="doc/signin.png" width="200" alt="Sign In View">
 
 ## Sign Up View
 If you do not have an account, you can click sign up to register. After sign up, you will be directly send to our home view.
