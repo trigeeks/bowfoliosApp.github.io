@@ -11,7 +11,7 @@
 
 # OVERVIEW
 ***
-The native mobile app that reimplements the functionality of the BowFolios (https://bowfolios.github.io/) application. Users can modify profiles, projects, and interests and they can also browse other's profile and project to see if they have the same interests with users. This App is build with Swift and firebase. It is for IOS platform only.
+The native mobile app that reimplements the functionality of the <a href="https://bowfolios.github.io/">BowFolios</a> application. Users can modify profiles, projects, and interests and they can also browse other's profile and project to see if they have the same interests with users. This App is build with Swift and firebase. It is for IOS platform only.
 
 # PROGRESS + DEVELOPMENT
 ***
@@ -70,7 +70,7 @@ User can add a new project to the database and they must input enough informatio
 
 First, install the latest version of XCode.
 
-Second, clone the repo (https://github.com/trigeeks/bowfoliosApp) to your local computer. You can run the app by using either the XCode Simulator or an iPhone with the latest version. (Caution: Using the camera function on a simulator will cause a crash.)
+Second, clone the <a href="https://github.com/trigeeks/bowfoliosApp">repo</a> to your local computer. You can run the app by using either the XCode Simulator or an iPhone with the latest version. (Caution: Using the camera function on a simulator will cause a crash.)
 
 
 
