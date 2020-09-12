@@ -3,4 +3,4 @@ description: Profiles, Projects, and Interests for the UH Community
 github:
   is_project_page: true
   repository_url: https://github.com/trigeeks/bowfoliosApp
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
