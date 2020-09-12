@@ -70,7 +70,7 @@ User can add a new project to the database and they must input enough informatio
 
 First, install the latest version of XCode.
 
-Second, clone the repo to your local computer. You can run the app by using either the XCode Simulator or an iPhone with the latest version. (Caution: Using the camera function on a simulator will cause a crash.)
+Second, clone the repo (https://github.com/trigeeks/bowfoliosApp) to your local computer. You can run the app by using either the XCode Simulator or an iPhone with the latest version. (Caution: Using the camera function on a simulator will cause a crash.)
 
 
 
