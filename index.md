@@ -18,6 +18,7 @@ The native mobile app that reimplements the functionality of the <a href="https:
 
 Track the team's progress via Milestones:
 * <a href="https://github.com/trigeeks/bowfoliosApp/projects/1">M1</a>
+* <a href="https://github.com/trigeeks/bowfoliosApp/projects/2">M2</a>
 
 <br/>
 
